@@ -2,4 +2,4 @@
 
 python3 -m venv venv
 source venv/bin/activate
-pip3 install pyrefly click toml
+pip3 install pyrefly toml
