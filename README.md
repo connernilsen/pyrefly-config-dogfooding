@@ -18,8 +18,7 @@ without actually fixing the type errors.
 Don't forget that you have access to the
 [documentation here](https://pyrefly.org/en/docs/configuration/). As you work through
 this, think through the following questions:
-    a. are there any configuration options that confuse you?
-    b. are there any configuration options that do (almost) the same thing
-    c. are there any configuration options that behave differently than what
+    1. are there any configuration options that confuse you?
+    2. are there any configuration options that do (almost) the same thing
+    3. are there any configuration options that behave differently than what
        you'd expect, either due to their naming or description.
-    d.
